@@ -1,2 +1,2 @@
-# gradle-seed
+# gradle-java-seed
 Gradle Sample
